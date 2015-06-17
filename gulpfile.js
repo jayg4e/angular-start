@@ -27,7 +27,7 @@ gulp.task('scripts', function() {
 
 //gulp webserver
 gulp.task('webserver', function() {
-  gulp.src('build/development')
+  gulp.src('.')
     .pipe(webserver({
       livereload: true,
       open: true

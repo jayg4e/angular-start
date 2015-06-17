@@ -1,20 +1,22 @@
-{
-	'name':  'mike bellingham',
-	'shortname': 'mikey',
-	'bio': 'mike sings for muse'
-},
-{
-	'name':  'chester pengington',
-	'shortname': 'chest',
-	'bio': 'chester sings for linkin park'	
-},
-{
-	'name':  'selena gomez',
-	'shortname': 'selly',
-	'bio': 'selena sings for selena'
-},
-{
-	'name':  'darren olson',
-	'shortname': 'd-ol',
-	'bio': 'darren sings for alabama shakes'
-}
+[
+	{
+		"name":  "mike bellingham",
+		"shortname": "mikey",
+		"bio": "mike sings for muse"
+	},
+	{
+		"name":  "chester pengington",
+		"shortname": "chest",
+		"bio": "chester sings for linkin park"	
+	},
+	{
+		"name":  "selena gomez",
+		"shortname": "selly",
+		"bio": "selena sings for selena"
+	},
+	{
+		"name":  "darren olson",
+		"shortname": "d-ol",
+		"bio": "darren sings for alabama shakes"
+	}
+]
